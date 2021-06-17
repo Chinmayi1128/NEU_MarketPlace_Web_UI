@@ -6,7 +6,7 @@ Project Description
 Universal Platform for the  Northeastern University community to buy and sell products from each other.
 Our application is a multichannel platform which can be a way to trade products.
 
-Why Northeastern marketplace
+# Why Northeastern marketplace
 
 Helps you to trade amongst wide genre of products
 Encrypted facility to prevent any risk and frauds
@@ -14,21 +14,21 @@ End to end one stop destination platform for Northeastern family
 Easy to explore and reach nearby sellers
 
 
-Tech Stack
+# Tech Stack
 
 React
 Express JS
 MongoDB
 
 
-Addtional Features
+# Addtional Features
 
 JWT Authentication for Signup and Signin
 Paypal | Credit | Debit card Payment Integration
 Deployed on Digital Ocean
 
 
-Work Flow and Modules
+# Work Flow and Modules
 
 For Seller
 
@@ -51,7 +51,7 @@ Live Demo (Buyer | Seller)
 Live Buyer URL here: http://neu-marketplace.testhome.in/
 Live Admin URL here: http://neu-marketplace.testhome.in/admin
 
-Environment Settings
+# Environment Settings
 
 Update DATABASE URL, I am using mongoDB connect
 Update PORT, Currently its 8000
@@ -63,7 +63,7 @@ https://sandbox.braintreegateway.com/login
 
 
 
-Steps to install
+# Steps to install
 
 npm install
 npm start
