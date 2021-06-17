@@ -1,7 +1,9 @@
 # NEU_MarketPlace_Web_UI
 A website assisting northeastern family to trade essential products
 
-Project Description
+<img width="463" alt="NEU_MarketPlace" src="https://user-images.githubusercontent.com/78767545/122476190-c825e180-cf93-11eb-9d9f-7509a3bd677d.png">
+
+# Project Description
 
 Universal Platform for the  Northeastern University community to buy and sell products from each other.
 Our application is a multichannel platform which can be a way to trade products.
