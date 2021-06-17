@@ -1,7 +1,7 @@
 # NEU_MarketPlace_Web_UI
 A website assisting northeastern family to trade essential products
 
-<img width="463" alt="NEU_MarketPlace" src="https://user-images.githubusercontent.com/78767545/122476190-c825e180-cf93-11eb-9d9f-7509a3bd677d.png">
+<img height="250" width="500" alt="NEU_MarketPlace" src="https://user-images.githubusercontent.com/78767545/122476190-c825e180-cf93-11eb-9d9f-7509a3bd677d.png">
 
 # Project Description
 
